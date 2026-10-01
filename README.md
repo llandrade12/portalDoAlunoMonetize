@@ -1,0 +1,2 @@
+# portalDoAlunoMonetize
+  CONTROLE DE VERSÕES 
